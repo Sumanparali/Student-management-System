@@ -1,0 +1,4 @@
+Hariom,admin@qwerty,admin
+user1,userpassword,user
+Hariom1,qwerty,user
+Rohan,12345,user
